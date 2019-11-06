@@ -1,4 +1,6 @@
-dfgdfgdfgdfg ASS
+cd c:\ - cмена директории cmd
+mkdir - создание папки (директории)
+
 git init
 git add *
 git commit - m "Chto-to eto"
